@@ -57,8 +57,8 @@ I’ve published applied research in automation, mathematical computing, and gen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ptewari09&show_icons=true&theme=default" alt="GitHub stats" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptewari09&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ptewari09&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptewari09&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ I’ve published applied research in automation, mathematical computing, and gen
 ## 📫 Connect With Me
 
 - 📧 [pramiti0309@gmail.com](mailto:pramiti0309@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pramiti-tewari-648b51285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pramiti-tewari-648b51285)  
 - 📚 [ORCID](https://orcid.org/0009-0006-8045-6957)
 
 ---
