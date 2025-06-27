@@ -57,7 +57,7 @@ I’ve published applied research in automation, mathematical computing, and gen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="![GitHub Streak](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ptewari09&show_icons=true&theme=tokyonight)
+  <img src="![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ptewari09&show_icons=true&theme=tokyonight)
 )" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptewari09&layout=compact" alt="Top Languages" />
 </p>
