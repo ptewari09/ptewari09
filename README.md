@@ -4,6 +4,10 @@
 🎓 Final Year B.Tech | 💻 Fullstack Dev Enthusiast | 🔬 Research Contributor | 📊 Data Explorer  
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ptewari09/ptewari09/refs/heads/main/ChatGPT%20Image%20Jun%2027%2C%202025%2C%2011_22_01%20PM.png" width="180" alt="Anime developer profile picture" />
+</p>
+
 ---
 
 ## 🔍 About Me
