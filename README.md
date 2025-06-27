@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Pramiti Tewari</h1>
 
 <p align="center">
@@ -15,7 +17,7 @@
 I'm a Computer Science undergraduate passionate about building meaningful technology and contributing to applied research.  
 My work spans fullstack development, data analytics, and intelligent automation. I enjoy solving real-world problems — whether through clean code, system design, or research-backed experimentation.
 
-Currently working on **DevHunt**, a developer resource tracking platform that helps learners find the best tools, courses, and open-source projects based on their goals.
+Currently working on **Devure**, a developer resource tracking platform that helps learners find the best tools, courses, and open-source projects based on their goals.
 
 ---
 
@@ -45,7 +47,7 @@ I’ve published applied research in automation, mathematical computing, and gen
 |--------|-------------|------------|
 | [ShopSmart](https://github.com/cakeeess/ShopSmart) | Smart price tracker for e-commerce products with email alerts | Flask, MongoDB, React, SMTP |
 | [Job Trend Analysis Tool](https://github.com/utkarsh0210/Job-Analysis-Tool) | Job data scraping + interactive visualization for market trends | Selenium, Pandas, Streamlit |
-| **DevHunt (WIP)** | Curated resource tracker for developers, by goals and interests | HTML, CSS, React, Flask (Planned) |
+| **Devure (WIP)** | Curated resource tracker for developers, by goals and interests | HTML, CSS, React, Flask (Planned) |
 
 ---
 
