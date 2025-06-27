@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pramiti Tewari</h1>
 
-<!--
-**ptewari09/ptewari09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Final Year B.Tech | 💻 Fullstack Dev Enthusiast | 🔬 Research Contributor | 📊 Data Explorer  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+I'm a Computer Science undergraduate passionate about building meaningful technology and contributing to applied research.  
+My work spans fullstack development, data analytics, and intelligent automation. I enjoy solving real-world problems — whether through clean code, system design, or research-backed experimentation.
+
+Currently working on **DevHunt**, a developer resource tracking platform that helps learners find the best tools, courses, and open-source projects based on their goals.
+
+---
+
+## 🧪 Research Publications
+
+I’ve published applied research in automation, mathematical computing, and generative design:
+
+- 📘 **Numerical Modelling of Double Integration**  
+  A Python-based approach to integral approximation with non-uniform data.
+
+- 🧮 **Monte Carlo Simulation for Integration**  
+  Statistical sampling techniques for efficient numerical approximation.
+
+- 🤖 **Design Optimization of a Glass Cleaning Robot**  
+  CAD modeling with Autodesk Fusion 360 + generative design for weight reduction.
+
+- 🕸️ **Web Automation with Selenium**  
+  Automated job data collection and market analysis using Python and browser automation.
+
+📖 [View All on ORCID](https://orcid.org/0009-0006-8045-6957)
+
+---
+
+## 💼 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [ShopSmart](https://github.com/cakeeess/ShopSmart) | Smart price tracker for e-commerce products with email alerts | Flask, MongoDB, React, SMTP |
+| [Job Trend Analysis Tool](https://github.com/utkarsh0210/Job-Analysis-Tool) | Job data scraping + interactive visualization for market trends | Selenium, Pandas, Streamlit |
+| **DevHunt (WIP)** | Curated resource tracker for developers, by goals and interests | HTML, CSS, React, Flask (Planned) |
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**: Python, C++, Java, SQL, JavaScript  
+**Web**: HTML, CSS, React (Learning), Flask (Learning)  
+**Tools**: Git, GitHub, Pandas, Selenium, Streamlit, Power BI  
+**Domains**: Data Analytics, Web Automation, Numerical Computing, Applied Research
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ptewari09&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptewari09&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 [pramiti0309@gmail.com](mailto:pramiti0309@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pramiti-tewari-648b51285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📚 [ORCID](https://orcid.org/0009-0006-8045-6957)
+
+---
+
+> “With roots in research and a growing passion for development, I’m building a path where thoughtful design meets real-world utility.”
