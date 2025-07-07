@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pramiti Tewari</h1>
 
 <p align="center">
-🎓 Final Year B.Tech | 💻 Fullstack Dev Enthusiast | 🔬 Research Contributor | 📊 Data Explorer  
+🎓 Final Year B.Tech | 💻 Fullstack Dev Enthusiast | 🔬 Research Contributor | 📊 Data Science Explorer | 💻 AI/ML Enthusiast 
 </p>
 
 <p align="center">
